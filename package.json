@@ -1,0 +1,25 @@
+{
+  "name": "qa-workshops-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mfilar/qa-workshops-1.git",
+  "author": "Mateusz Filar <mateusz.filar@miquido.com>",
+  "license": "MIT",
+  "scripts": {
+    "hello": "node 0-hello-world",
+    "bool-1": "node 1-definitions/boolean/1.js",
+    "bool-2": "node 1-definitions/boolean/2.js",
+    "num-1": "node 1-definitions/number/1.js",
+    "num-2": "node 1-definitions/number/2.js",
+    "str-1": "node 1-definitions/string/1.js",
+    "str-2": "node 1-definitions/string/2.js",
+    "array-1": "node 1-definitions/array/1.js",
+    "array-2": "node 1-definitions/array/2.js",
+    "array-3": "node 1-definitions/array/3.js",
+    "object-1": "node 1-definitions/object/1.js",
+    "object-2": "node 1-definitions/object/2.js",
+    "object-3": "node 1-definitions/object/3.js",
+    "array-op": "node 2-operations/array.js",
+    "funtions": "node 2-operations/functions.js"
+  }
+}
